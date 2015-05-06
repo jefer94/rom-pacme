@@ -1,0 +1,15 @@
+* {
+	padding:0;
+	margin:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: oswald, helvetica, arial, sans-serif;
+	background:url(stylesheets/imagepallete.png), #009688;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
