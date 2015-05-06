@@ -8,7 +8,7 @@
 
 body {
 	font-family: oswald, helvetica, arial, sans-serif;
-	background:url(stylesheets/imagepallete.png), #009688;
+	background:url(imagepallete.png), #009688;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -24,4 +24,20 @@ body {
 	height:100;
 	position:fixed;
 	background:rgba(0,0,0,.8);
+}
+
+header {
+	position: relative;
+	height: auto;
+}
+header .menu {
+	background: rgba(225,225,225,.7);
+	overflow: hidden;
+}
+
+header .logo {
+	color: rgba(0,0,0,.8);
+	float: left;
+	font-size: 30px;
+	line-height: 80px;
 }
