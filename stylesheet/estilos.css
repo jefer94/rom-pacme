@@ -25,6 +25,9 @@ body {
 	background:rgba(0,0,0,.8);
 	background-size: fixed;
 }
+header img {
+	float: left;
+}
 header {
 	position: relative;
 	height: auto;
