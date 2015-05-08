@@ -25,7 +25,13 @@ body {
 	background:rgba(0,0,0,.8);
 	background-size: fixed;
 }
-header img {
+header .imagen { 
+	width: 79px; 
+	height: 79px; 
+	border-radius: 70px; 
+	-webkit-border-radius: 70px; 
+	-moz-border-radius: 70px; 
+	background: url(icon.png) no-repeat;
 	float: left;
 }
 header {
